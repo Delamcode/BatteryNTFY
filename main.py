@@ -3,7 +3,7 @@ import psutil
 import platform
 from time import sleep
 
-topic = "battery690548269113135629241"
+topic = "battery"
 battery_target = 20
 force_all_battery = False
 
